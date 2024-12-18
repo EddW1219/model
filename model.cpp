@@ -1,4 +1,4 @@
-#include "../../epiworld.hpp"
+#include "epiworld.hpp"
 #include <iostream>
 #include <vector>
 #include <string>
